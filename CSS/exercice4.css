@@ -1,0 +1,5 @@
+p{font-family:"arial";}
+#bluebackground{background-color:rgb(222, 234, 235) ;}
+body{background-image:url('Black-Panther-poster-main-xl.jpg') ;
+    background-size: cover; 
+    background-attachment: fixed;}
