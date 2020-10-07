@@ -1,13 +1,68 @@
  #margintext{margin: 10px;}
  #paddingtext{padding: 10px; background-color: blue;}
- #premiereligne div{height:60px;}
- #premierbloc{float: left; background-color:rgb(53, 235, 129); width: 80%;}
- #deuxiemebloc{float: right; background-color: rgb(42, 120, 236); width: 20%;}
- #premierbloc2{float: left; background-color:rgb(196, 27, 27); height:100px; width:34%;}
- #deuxiemebloc2{float: left; background-color: rgb(255, 118, 38); height:50px; width: 33%;}
- #troisiemebloc2{float: right; background-color: rgb(126, 121, 121); height:50px; width: 33%;}
- #quatriemebloc2{float: left; background-color: rgb(241, 226, 11); height: 50px; width:22%;}
- #cinquiemebloc2{float: left; background-color:rgb(20, 155, 132); height:50px; width: 22%;}
- #sixiemebloc2{float: right; background-color: rgb(255, 81, 0); height:50px; width: 22%;}
- #quatriemeligne div{float: left; background-color: rgb(39, 36, 36); height:100px; width: 100%;}
+
+ #premiereligne div{
+     height:60px;
+    }
+
+ #premierbloc{
+     float: left; 
+     background-color:rgb(53, 235, 129); 
+     width: 80%;
+    }
+
+ #deuxiemebloc{
+     float: right; 
+     background-color: rgb(42, 120, 236); 
+     width: 20%;
+    }
+
+ #premierbloc2{
+     float: left; 
+     background-color:rgb(196, 27, 27); 
+     height:100px; 
+     width:34%;
+    }
+
+ #deuxiemebloc2{
+     float: left; 
+     background-color: rgb(255, 118, 38); 
+     height:50px; 
+     width: 33%;
+    }
+
+ #troisiemebloc2{
+     float: right;
+      background-color: rgb(126, 121, 121);
+       height:50px; 
+       width: 33%;
+    }
+
+ #quatriemebloc2{
+    float: left; 
+    background-color:rgb(226, 193, 7) ; 
+    height: 50px;
+     width:22%;
+    }
+
+ #cinquiemebloc2{
+     float: left; 
+     background-color:rgb(20, 155, 132); 
+     height:50px; 
+     width: 22%;
+    }
+
+ #sixiemebloc2{
+     float: right; 
+     background-color: rgb(255, 81, 0); 
+     height:50px; 
+     width: 22%;
+    }
+
+ #quatriemeligne div{
+     float: left; 
+     background-color: rgb(39, 36, 36); 
+     height:100px; 
+     width: 100%;
+    }
  
