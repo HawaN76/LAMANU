@@ -1,8 +1,20 @@
-.premierepartie{background-color:rgb(22, 115, 192); }
-#titrebleu{background-color: rgb(22, 115, 192) ;}
+.premierepartie{
+    background-color:rgb(22, 115, 192); 
+}
+#titrebleu{
+    background-color: rgb(22, 115, 192) ;
+}
 
-.deuxiemepartie{background-color: rgb(167, 20, 167);}
-#titreviolet{background-color:rgb(167, 20, 167);}
+.deuxiemepartie{
+    background-color: rgb(167, 20, 167);
+}
+#titreviolet{
+    background-color:rgb(167, 20, 167);
+}
 
-.troisiemepartie{background-color: rgb(211, 3, 38);}
-#titrerouge{background-color:rgb(211, 3, 38);}
+.troisiemepartie{
+    background-color: rgb(211, 3, 38);
+}
+#titrerouge{
+    background-color:rgb(211, 3, 38);
+}
